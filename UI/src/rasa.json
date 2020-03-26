@@ -1,0 +1,3096 @@
+[
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "sample of product",
+      "_id": "1tKzbm0B6S6nYW21Bmr6",
+      "key": 0,
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "value": "sample of product",
+          "entity": "Can I get a free sample of a product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "how custom formulation helps?",
+      "_id": "3tKzbm0B6S6nYW21Bmr6",
+      "key": 1,
+      "entities": [
+        {
+          "start": 0,
+          "end": 29,
+          "value": "how custom formulation helps?",
+          "entity": "Is custom formulation available?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "form of our sample product",
+      "_id": "4dKzbm0B6S6nYW21Bmr6",
+      "key": 2,
+      "entities": [
+        {
+          "start": 0,
+          "end": 26,
+          "value": "form of our sample product",
+          "entity": "In what forms do you provide your sample?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "which kind of sample can i have?",
+      "_id": "4tKzbm0B6S6nYW21Bmr6",
+      "key": 3,
+      "entities": [
+        {
+          "start": 0,
+          "end": 32,
+          "value": "which kind of sample can i have?",
+          "entity": "In what forms do you provide your sample?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "how many forms of samples are available?",
+      "_id": "49Kzbm0B6S6nYW21Bmr6",
+      "key": 4,
+      "entities": [
+        {
+          "start": 0,
+          "end": 40,
+          "value": "how many forms of samples are available?",
+          "entity": "In what forms do you provide your sample?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "how much discount available?",
+      "_id": "69Kzbm0B6S6nYW21Bmr6",
+      "key": 5,
+      "entities": [
+        {
+          "start": 0,
+          "end": 28,
+          "value": "how much discount available?",
+          "entity": "Can I get a discount?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is the information on the datasheet up-to-date and correct?",
+      "_id": "7NKzbm0B6S6nYW21Bmr6",
+      "key": 6,
+      "entities": [
+        {
+          "start": 0,
+          "end": 59,
+          "value": "Is the information on the datasheet up-to-date and correct?",
+          "entity": "Is the information on the datasheet up-to-date and correct?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "can i have datasheet?",
+      "_id": "8tKzbm0B6S6nYW21Bmr6",
+      "key": 7,
+      "entities": [
+        {
+          "start": 0,
+          "end": 21,
+          "value": "can i have datasheet?",
+          "entity": "what kind of information will be provided on datasheet? "
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what is COA?",
+      "_id": "9dKzbm0B6S6nYW21Bmr6",
+      "key": 8,
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "what is COA?",
+          "entity": "What is a Certificate of Compliance / Analysis (CoC / COA)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "endotoxin level ",
+      "_id": "_tKzbm0B6S6nYW21Bmr7",
+      "key": 9,
+      "entities": [
+        {
+          "start": 0,
+          "end": 16,
+          "value": "endotoxin level ",
+          "entity": "When is endotoxin level important?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is rAlblaz FDA approved for therapeutic grade?",
+      "_id": "D9Kzbm0B6S6nYW21Bmv7",
+      "key": 10,
+      "entities": [
+        {
+          "start": 0,
+          "end": 47,
+          "value": "Is rAlblaz FDA approved for therapeutic grade?",
+          "entity": "Is rAlblaz FDA approved for therapeutic grade?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": " FDA approved ?",
+      "_id": "E9Kzbm0B6S6nYW21Bmv7",
+      "key": 11,
+      "entities": [
+        {
+          "start": 0,
+          "end": 15,
+          "value": " FDA approved ?",
+          "entity": "Is rAlblaz FDA approved for therapeutic grade?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Does rAlblaz contain any yeast impurities (Host Cell Proteins, HCPs)?",
+      "_id": "GdKzbm0B6S6nYW21Bmv7",
+      "key": 12,
+      "entities": [
+        {
+          "start": 0,
+          "end": 70,
+          "value": "Does rAlblaz contain any yeast impurities (Host Cell Proteins, HCPs)?",
+          "entity": "Does rAlblaz contain any yeast impurities (Host Cell Proteins, HCPs)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "explain long-term storage properties of rHSA?",
+      "_id": "ItKzbm0B6S6nYW21Bmv7",
+      "key": 13,
+      "entities": [
+        {
+          "start": 0,
+          "end": 45,
+          "value": "explain long-term storage properties of rHSA?",
+          "entity": "What are the long-term storage properties of our products? "
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Which countries do you ship to?",
+      "_id": "MdKzbm0B6S6nYW21Bmv7",
+      "key": 14,
+      "entities": [
+        {
+          "start": 0,
+          "end": 31,
+          "value": "Which countries do you ship to?",
+          "entity": "Where do you ship to?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is it possible for you to ship to Europe/Africa/North America/South America?",
+      "_id": "MtKzbm0B6S6nYW21Bmv7",
+      "key": 15,
+      "entities": [
+        {
+          "start": 0,
+          "end": 76,
+          "value": "Is it possible for you to ship to Europe/Africa/North America/South America?",
+          "entity": "Where do you ship to?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How much are you selling your product for?",
+      "_id": "QdKzbm0B6S6nYW21Bmv-",
+      "key": 16,
+      "entities": [
+        {
+          "start": 0,
+          "end": 42,
+          "value": "How much are you selling your product for?",
+          "entity": "How much does the product cost?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "May I know the price of your product?",
+      "_id": "QtKzbm0B6S6nYW21Bmv_",
+      "key": 17,
+      "entities": [
+        {
+          "start": 0,
+          "end": 37,
+          "value": "May I know the price of your product?",
+          "entity": "How much does the product cost?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What is the selling price of your rHSA?",
+      "_id": "Q9Kzbm0B6S6nYW21Bmv_",
+      "key": 18,
+      "entities": [
+        {
+          "start": 0,
+          "end": 39,
+          "value": "What is the selling price of your rHSA?",
+          "entity": "How much does the product cost?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Do you have the product in Stock?",
+      "_id": "RdKzbm0B6S6nYW21Bmv_",
+      "key": 19,
+      "entities": [
+        {
+          "start": 0,
+          "end": 33,
+          "value": "Do you have the product in Stock?",
+          "entity": "Is the product in stock?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is your product available at the moment?",
+      "_id": "RtKzbm0B6S6nYW21Bmv_",
+      "key": 20,
+      "entities": [
+        {
+          "start": 0,
+          "end": 40,
+          "value": "Is your product available at the moment?",
+          "entity": "Is the product in stock?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is the Stock available for rHSA?",
+      "_id": "SNKzbm0B6S6nYW21Bmv_",
+      "key": 21,
+      "entities": [
+        {
+          "start": 0,
+          "end": 32,
+          "value": "Is the Stock available for rHSA?",
+          "entity": "Is the product in stock?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "transit time means",
+      "_id": "VtKzbm0B6S6nYW21Bmv_",
+      "key": 22,
+      "entities": [
+        {
+          "start": 0,
+          "end": 18,
+          "value": "transit time means",
+          "entity": "What is the transit time?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Do you charge  GST?",
+      "_id": "ZNKzbm0B6S6nYW21Bmv_",
+      "key": 23,
+      "entities": [
+        {
+          "start": 0,
+          "end": 19,
+          "value": "Do you charge  GST?",
+          "entity": "Do you charge  GST?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How will I know if my order has been received by Lazuline?",
+      "_id": "btKzbm0B6S6nYW21Bmv_",
+      "key": 24,
+      "entities": [
+        {
+          "start": 0,
+          "end": 58,
+          "value": "How will I know if my order has been received by Lazuline?",
+          "entity": "How will I know if my order has been received by Lazuline?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How do I contact the Customer Service / Sales team?",
+      "_id": "c9Kzbm0B6S6nYW21Bmv_",
+      "key": 25,
+      "entities": [
+        {
+          "start": 0,
+          "end": 51,
+          "value": "How do I contact the Customer Service / Sales team?",
+          "entity": "How do I contact the Customer Service / Sales team?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Why use our rHSA?",
+      "_id": "edKzbm0B6S6nYW21Bmv_",
+      "key": 26,
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "value": "Why use our rHSA?",
+          "entity": "Why use our recombinant albumin?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Offering1",
+      "text": "want to ask something new",
+      "_id": "mpG6hW0BueNZKWH0y_Fp",
+      "key": 27,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering1",
+      "text": "wanting to buy your rHSA",
+      "_id": "j5G3hW0BueNZKWH0D_EN",
+      "key": 28,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering3",
+      "text": "sample product interest",
+      "_id": "0JESh20BueNZKWH0cvG2",
+      "key": 29,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering1",
+      "text": "interest in your rHSA",
+      "_id": "jZG2hW0BueNZKWH0KfE_",
+      "key": 30,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "there",
+      "_id": "45ELcm0BueNZKWH0LPDa",
+      "key": 31,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what is albumin",
+      "_id": "xtKzbm0B6S6nYW21Bmr6",
+      "key": 32,
+      "entities": [
+        {
+          "entity": "What is Albumin?",
+          "value": "what is albumin",
+          "start": 0,
+          "end": 15
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Offering3",
+      "text": "interest- sample of your product?",
+      "_id": "0ZETh20BueNZKWH0EfG0",
+      "key": 33,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "OTHER Query",
+      "_id": "LZEeyW0BueNZKWH0yfRy",
+      "key": 34,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "SJHagG0BueNZKWH0r_H5",
+      "key": 35,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "LJEeyW0BueNZKWH0p_T6",
+      "key": 36,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "45Ha920BueNZKWH0Fv_l",
+      "key": 37,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "55Ha920BueNZKWH0RP9q",
+      "key": 38,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "hello there",
+      "_id": "M5KqEm4BueNZKWH0GAYg",
+      "key": 39,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "hello",
+      "_id": "HpKaEm4BueNZKWH06gYi",
+      "key": 40,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "meaning of albumin is",
+      "_id": "yNKzbm0B6S6nYW21Bmr6",
+      "key": 41,
+      "entities": [
+        {
+          "start": 0,
+          "end": 21,
+          "value": "meaning of albumin is",
+          "entity": "What is Albumin?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what is meant by albumin?",
+      "_id": "zNKzbm0B6S6nYW21Bmr6",
+      "key": 42,
+      "entities": [
+        {
+          "start": 0,
+          "end": 25,
+          "value": "what is meant by albumin?",
+          "entity": "What is Albumin?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How does recombinant albumin compare with plasma derived albumin in cell culture?",
+      "_id": "zdKzbm0B6S6nYW21Bmr6",
+      "key": 43,
+      "entities": [
+        {
+          "start": 0,
+          "end": 81,
+          "value": "How does recombinant albumin compare with plasma derived albumin in cell culture?",
+          "entity": "How does recombinant albumin compare with plasma derived albumin in cell culture?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "how does rHSA compare with Plasma derived albumin",
+      "_id": "09Kzbm0B6S6nYW21Bmr6",
+      "key": 44,
+      "entities": [
+        {
+          "start": 0,
+          "end": 49,
+          "value": "how does rHSA compare with Plasma derived albumin",
+          "entity": "How does recombinant albumin compare with plasma derived albumin in cell culture?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "free sample of product",
+      "_id": "1dKzbm0B6S6nYW21Bmr6",
+      "key": 45,
+      "entities": [
+        {
+          "start": 0,
+          "end": 22,
+          "value": "free sample of product",
+          "entity": "Can I get a free sample of a product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "how can i get free sample of product?",
+      "_id": "2NKzbm0B6S6nYW21Bmr6",
+      "key": 46,
+      "entities": [
+        {
+          "start": 0,
+          "end": 37,
+          "value": "how can i get free sample of product?",
+          "entity": "Can I get a free sample of a product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "In what forms do you provide your sample?",
+      "_id": "4NKzbm0B6S6nYW21Bmr6",
+      "key": 47,
+      "entities": [
+        {
+          "start": 0,
+          "end": 41,
+          "value": "In what forms do you provide your sample?",
+          "entity": "In what forms do you provide your sample?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what is the information on datasheet?",
+      "_id": "79Kzbm0B6S6nYW21Bmr6",
+      "key": 48,
+      "entities": [
+        {
+          "start": 0,
+          "end": 37,
+          "value": "what is the information on datasheet?",
+          "entity": "Is the information on the datasheet up-to-date and correct?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "typical endotoxin levels are",
+      "_id": "AdKzbm0B6S6nYW21Bmv7",
+      "key": 49,
+      "entities": [
+        {
+          "start": 0,
+          "end": 28,
+          "value": "typical endotoxin levels are",
+          "entity": "What are the typical endotoxin levels?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "usual endotoxin levels are",
+      "_id": "AtKzbm0B6S6nYW21Bmv7",
+      "key": 50,
+      "entities": [
+        {
+          "start": 0,
+          "end": 26,
+          "value": "usual endotoxin levels are",
+          "entity": "What are the typical endotoxin levels?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Does Lazuline Biotech perform custom manufacturing?",
+      "_id": "CtKzbm0B6S6nYW21Bmv7",
+      "key": 51,
+      "entities": [
+        {
+          "start": 0,
+          "end": 51,
+          "value": "Does Lazuline Biotech perform custom manufacturing?",
+          "entity": "Does Lazuline Biotech perform custom manufacturing? "
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is rAlblaz been tested in animals?",
+      "_id": "FtKzbm0B6S6nYW21Bmv7",
+      "key": 52,
+      "entities": [
+        {
+          "start": 0,
+          "end": 35,
+          "value": "is rAlblaz been tested in animals?",
+          "entity": "Has rAlblaz been tested in animals?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": " rAlblaz tested in animals?",
+      "_id": "GNKzbm0B6S6nYW21Bmv7",
+      "key": 53,
+      "entities": [
+        {
+          "start": 0,
+          "end": 27,
+          "value": " rAlblaz tested in animals?",
+          "entity": "Has rAlblaz been tested in animals?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "can i place order?",
+      "_id": "JNKzbm0B6S6nYW21Bmv7",
+      "key": 54,
+      "entities": [
+        {
+          "start": 0,
+          "end": 18,
+          "value": "can i place order?",
+          "entity": "How do I place an order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "order place",
+      "_id": "J9Kzbm0B6S6nYW21Bmv7",
+      "key": 55,
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "value": "order place",
+          "entity": "How do I place an order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Can you ship to my country?",
+      "_id": "MNKzbm0B6S6nYW21Bmv7",
+      "key": 56,
+      "entities": [
+        {
+          "start": 0,
+          "end": 27,
+          "value": "Can you ship to my country?",
+          "entity": "Where do you ship to?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what do you require for my order?",
+      "_id": "N9Kzbm0B6S6nYW21Bmv7",
+      "key": 57,
+      "entities": [
+        {
+          "start": 0,
+          "end": 33,
+          "value": "what do you require for my order?",
+          "entity": "What information do you require for my order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "do you require anything for my order?",
+      "_id": "ONKzbm0B6S6nYW21Bmv7",
+      "key": 58,
+      "entities": [
+        {
+          "start": 0,
+          "end": 37,
+          "value": "do you require anything for my order?",
+          "entity": "What information do you require for my order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "explain PON",
+      "_id": "PtKzbm0B6S6nYW21Bmv-",
+      "key": 59,
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "value": "explain PON",
+          "entity": "What is a Purchase Order Number ('PON')?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What is the cost of your product?",
+      "_id": "QNKzbm0B6S6nYW21Bmv-",
+      "key": 60,
+      "entities": [
+        {
+          "start": 0,
+          "end": 33,
+          "value": "What is the cost of your product?",
+          "entity": "How much does the product cost?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "explain your shipping, handling & packaging charges?",
+      "_id": "TNKzbm0B6S6nYW21Bmv_",
+      "key": 61,
+      "entities": [
+        {
+          "start": 0,
+          "end": 52,
+          "value": "explain your shipping, handling & packaging charges?",
+          "entity": "What are your shipping, handling & packaging charges?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "let us know your shipping, handling & packaging charges?",
+      "_id": "TtKzbm0B6S6nYW21Bmv_",
+      "key": 62,
+      "entities": [
+        {
+          "start": 0,
+          "end": 56,
+          "value": "let us know your shipping, handling & packaging charges?",
+          "entity": "What are your shipping, handling & packaging charges?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How long do you take to ship?",
+      "_id": "U9Kzbm0B6S6nYW21Bmv_",
+      "key": 63,
+      "entities": [
+        {
+          "start": 0,
+          "end": 29,
+          "value": "How long do you take to ship?",
+          "entity": "When do you ship?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What is the transit time?",
+      "_id": "VNKzbm0B6S6nYW21Bmv_",
+      "key": 64,
+      "entities": [
+        {
+          "start": 0,
+          "end": 25,
+          "value": "What is the transit time?",
+          "entity": "What is the transit time?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what do you mean by transit time?",
+      "_id": "WNKzbm0B6S6nYW21Bmv_",
+      "key": 65,
+      "entities": [
+        {
+          "start": 0,
+          "end": 33,
+          "value": "what do you mean by transit time?",
+          "entity": "What is the transit time?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Does the price quoted include GST?",
+      "_id": "aNKzbm0B6S6nYW21Bmv_",
+      "key": 66,
+      "entities": [
+        {
+          "start": 0,
+          "end": 34,
+          "value": "Does the price quoted include GST?",
+          "entity": "Do you charge  GST?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How will I know if my order has been received by your company?",
+      "_id": "cNKzbm0B6S6nYW21Bmv_",
+      "key": 67,
+      "entities": [
+        {
+          "start": 0,
+          "end": 62,
+          "value": "How will I know if my order has been received by your company?",
+          "entity": "How will I know if my order has been received by Lazuline?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "can i know if my order has been received by Lazuline?",
+      "_id": "cdKzbm0B6S6nYW21Bmv_",
+      "key": 68,
+      "entities": [
+        {
+          "start": 0,
+          "end": 53,
+          "value": "can i know if my order has been received by Lazuline?",
+          "entity": "How will I know if my order has been received by Lazuline?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "hey hello",
+      "_id": "4pEKcm0BueNZKWH09fAP",
+      "key": 69,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering2",
+      "text": "interest- use your Recombinant Albumin?",
+      "_id": "xpEMh20BueNZKWH0QPH5",
+      "key": 70,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering2",
+      "text": "interest- use your recombinant Albumin?",
+      "_id": "x5EMh20BueNZKWH0vvHp",
+      "key": 71,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering3",
+      "text": "interest to get sample of your rHSA",
+      "_id": "lZG5hW0BueNZKWH04fEm",
+      "key": 72,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering1",
+      "text": "i have an other query",
+      "_id": "mJG6hW0BueNZKWH0e_Eb",
+      "key": 73,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "albumin is nothing but",
+      "_id": "ydKzbm0B6S6nYW21Bmr6",
+      "key": 74,
+      "entities": [
+        {
+          "entity": "What is Albumin?",
+          "value": "albumin is nothing but",
+          "start": 0,
+          "end": 22
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is custom formulation there",
+      "_id": "3NKzbm0B6S6nYW21Bmr6",
+      "key": 75,
+      "entities": [
+        {
+          "entity": "Is custom formulation available?",
+          "value": "is custom formulation there",
+          "start": 0,
+          "end": 27
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Distributor",
+      "_id": "8pFhkW0BueNZKWH0sPL7",
+      "key": 76,
+      "entities": [
+        {
+          "entity": "Distributor",
+          "value": "distributor",
+          "start": 0,
+          "end": 11
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "albumin is",
+      "_id": "ytKzbm0B6S6nYW21Bmr6",
+      "key": 77,
+      "entities": [
+        {
+          "entity": "What is Albumin?",
+          "value": "albumin is",
+          "start": 0,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Offering5",
+      "text": "interest-sPecs of product",
+      "_id": "05HikG0BueNZKWH0HfI1",
+      "key": 78,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering5",
+      "text": "interest-specs of product",
+      "_id": "1pHjkG0BueNZKWH0cvLk",
+      "key": 79,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other QUERY",
+      "_id": "LpEeyW0BueNZKWH08fQw",
+      "key": 80,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "-JFkkW0BueNZKWH0v_I8",
+      "key": 81,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "8ZHb920BueNZKWH0ZP_f",
+      "key": 82,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "hello",
+      "_id": "MpKpEm4BueNZKWH0-gYc",
+      "key": 83,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering7",
+      "text": "Interest - support team Callback",
+      "_id": "NpKwEm4BueNZKWH0rQbK",
+      "key": 84,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "does custom formulation works?",
+      "_id": "39Kzbm0B6S6nYW21Bmr6",
+      "key": 85,
+      "entities": [
+        {
+          "start": 0,
+          "end": 30,
+          "value": "does custom formulation works?",
+          "entity": "Is custom formulation available?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "discount",
+      "_id": "59Kzbm0B6S6nYW21Bmr6",
+      "key": 86,
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "discount",
+          "entity": "Can I get a discount?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "can you provide discount?",
+      "_id": "6NKzbm0B6S6nYW21Bmr6",
+      "key": 87,
+      "entities": [
+        {
+          "start": 0,
+          "end": 25,
+          "value": "can you provide discount?",
+          "entity": "Can I get a discount?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is the datasheet up-to-date?",
+      "_id": "7tKzbm0B6S6nYW21Bmr6",
+      "key": 88,
+      "entities": [
+        {
+          "start": 0,
+          "end": 28,
+          "value": "is the datasheet up-to-date?",
+          "entity": "Is the information on the datasheet up-to-date and correct?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "CoC analysis means",
+      "_id": "9tKzbm0B6S6nYW21Bmr6",
+      "key": 89,
+      "entities": [
+        {
+          "start": 0,
+          "end": 18,
+          "value": "CoC analysis means",
+          "entity": "What is a Certificate of Compliance / Analysis (CoC / COA)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is endotoxin level important?",
+      "_id": "-tKzbm0B6S6nYW21Bmr6",
+      "key": 90,
+      "entities": [
+        {
+          "start": 0,
+          "end": 29,
+          "value": "is endotoxin level important?",
+          "entity": "When is endotoxin level important?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "importance of endotoxin level is",
+      "_id": "-9Kzbm0B6S6nYW21Bmr6",
+      "key": 91,
+      "entities": [
+        {
+          "start": 0,
+          "end": 32,
+          "value": "importance of endotoxin level is",
+          "entity": "When is endotoxin level important?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "priority of endotoxin level is",
+      "_id": "_NKzbm0B6S6nYW21Bmr7",
+      "key": 92,
+      "entities": [
+        {
+          "start": 0,
+          "end": 30,
+          "value": "priority of endotoxin level is",
+          "entity": "When is endotoxin level important?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "especially at what times endotoxin level get important?",
+      "_id": "_dKzbm0B6S6nYW21Bmr7",
+      "key": 93,
+      "entities": [
+        {
+          "start": 0,
+          "end": 55,
+          "value": "especially at what times endotoxin level get important?",
+          "entity": "When is endotoxin level important?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": " typical endotoxin levels?",
+      "_id": "ANKzbm0B6S6nYW21Bmv7",
+      "key": 94,
+      "entities": [
+        {
+          "start": 0,
+          "end": 26,
+          "value": " typical endotoxin levels?",
+          "entity": "What are the typical endotoxin levels?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what are the normal endotoxin levels?",
+      "_id": "A9Kzbm0B6S6nYW21Bmv7",
+      "key": 95,
+      "entities": [
+        {
+          "start": 0,
+          "end": 37,
+          "value": "what are the normal endotoxin levels?",
+          "entity": "What are the typical endotoxin levels?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "how we will use protein application?",
+      "_id": "CNKzbm0B6S6nYW21Bmv7",
+      "key": 96,
+      "entities": [
+        {
+          "start": 0,
+          "end": 36,
+          "value": "how we will use protein application?",
+          "entity": "What application is the protein used for?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "do you perform custom manufacturing?",
+      "_id": "DdKzbm0B6S6nYW21Bmv7",
+      "key": 97,
+      "entities": [
+        {
+          "start": 0,
+          "end": 36,
+          "value": "do you perform custom manufacturing?",
+          "entity": "Does Lazuline Biotech perform custom manufacturing? "
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "custom manufacturing is available?",
+      "_id": "DtKzbm0B6S6nYW21Bmv7",
+      "key": 98,
+      "entities": [
+        {
+          "start": 0,
+          "end": 34,
+          "value": "custom manufacturing is available?",
+          "entity": "Does Lazuline Biotech perform custom manufacturing? "
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": " rAlblaz been tested in animals?",
+      "_id": "FdKzbm0B6S6nYW21Bmv7",
+      "key": 99,
+      "entities": [
+        {
+          "start": 0,
+          "end": 33,
+          "value": " rAlblaz been tested in animals?",
+          "entity": "Has rAlblaz been tested in animals?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "does your recombinant albumin contain any yeast impurities?",
+      "_id": "G9Kzbm0B6S6nYW21Bmv7",
+      "key": 100,
+      "entities": [
+        {
+          "start": 0,
+          "end": 59,
+          "value": "does your recombinant albumin contain any yeast impurities?",
+          "entity": "Does rAlblaz contain any yeast impurities (Host Cell Proteins, HCPs)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "how can i place order?",
+      "_id": "JdKzbm0B6S6nYW21Bmv7",
+      "key": 101,
+      "entities": [
+        {
+          "start": 0,
+          "end": 22,
+          "value": "how can i place order?",
+          "entity": "How do I place an order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "place order",
+      "_id": "JtKzbm0B6S6nYW21Bmv7",
+      "key": 102,
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "value": "place order",
+          "entity": "How do I place an order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "placing order",
+      "_id": "KNKzbm0B6S6nYW21Bmv7",
+      "key": 103,
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "placing order",
+          "entity": "How do I place an order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is your product available on any b2b platform ?",
+      "_id": "LNKzbm0B6S6nYW21Bmv7",
+      "key": 104,
+      "entities": [
+        {
+          "start": 0,
+          "end": 47,
+          "value": "Is your product available on any b2b platform ?",
+          "entity": "Do you offer eProcurement solutions?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How can I buy your product online?",
+      "_id": "LdKzbm0B6S6nYW21Bmv7",
+      "key": 105,
+      "entities": [
+        {
+          "start": 0,
+          "end": 34,
+          "value": "How can I buy your product online?",
+          "entity": "Do you offer eProcurement solutions?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Where do you ship to?",
+      "_id": "L9Kzbm0B6S6nYW21Bmv7",
+      "key": 106,
+      "entities": [
+        {
+          "start": 0,
+          "end": 21,
+          "value": "Where do you ship to?",
+          "entity": "Where do you ship to?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What information do you require for my order?",
+      "_id": "NdKzbm0B6S6nYW21Bmv7",
+      "key": 107,
+      "entities": [
+        {
+          "start": 0,
+          "end": 45,
+          "value": "What information do you require for my order?",
+          "entity": "What information do you require for my order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is the product subjected to stock availability?",
+      "_id": "R9Kzbm0B6S6nYW21Bmv_",
+      "key": 108,
+      "entities": [
+        {
+          "start": 0,
+          "end": 47,
+          "value": "Is the product subjected to stock availability?",
+          "entity": "Is the product in stock?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Do you have enough stock to supply?",
+      "_id": "SdKzbm0B6S6nYW21Bmv_",
+      "key": 109,
+      "entities": [
+        {
+          "start": 0,
+          "end": 35,
+          "value": "Do you have enough stock to supply?",
+          "entity": "Is the product in stock?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": " the transit time is",
+      "_id": "VdKzbm0B6S6nYW21Bmv_",
+      "key": 110,
+      "entities": [
+        {
+          "start": 0,
+          "end": 20,
+          "value": " the transit time is",
+          "entity": "What is the transit time?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How can we pay?",
+      "_id": "XtKzbm0B6S6nYW21Bmv_",
+      "key": 111,
+      "entities": [
+        {
+          "start": 0,
+          "end": 15,
+          "value": "How can we pay?",
+          "entity": "How can we pay?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "payment is",
+      "_id": "X9Kzbm0B6S6nYW21Bmv_",
+      "key": 112,
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "payment is",
+          "entity": "How can we pay?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what is a pro-forma invoice?",
+      "_id": "a9Kzbm0B6S6nYW21Bmv_",
+      "key": 113,
+      "entities": [
+        {
+          "start": 0,
+          "end": 28,
+          "value": "what is a pro-forma invoice?",
+          "entity": "Can I have a pro-forma invoice?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "will I know if my order has been received by Lazuline?",
+      "_id": "b9Kzbm0B6S6nYW21Bmv_",
+      "key": 114,
+      "entities": [
+        {
+          "start": 0,
+          "end": 54,
+          "value": "will I know if my order has been received by Lazuline?",
+          "entity": "How will I know if my order has been received by Lazuline?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "shall i know if my order has been received by your company?",
+      "_id": "ctKzbm0B6S6nYW21Bmv_",
+      "key": 115,
+      "entities": [
+        {
+          "start": 0,
+          "end": 59,
+          "value": "shall i know if my order has been received by your company?",
+          "entity": "How will I know if my order has been received by Lazuline?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "do I contact the Customer Service / Sales team?",
+      "_id": "dNKzbm0B6S6nYW21Bmv_",
+      "key": 116,
+      "entities": [
+        {
+          "start": 0,
+          "end": 47,
+          "value": "do I contact the Customer Service / Sales team?",
+          "entity": "How do I contact the Customer Service / Sales team?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How do I approach the Customer Service / Sales team?",
+      "_id": "dtKzbm0B6S6nYW21Bmv_",
+      "key": 117,
+      "entities": [
+        {
+          "start": 0,
+          "end": 52,
+          "value": "How do I approach the Customer Service / Sales team?",
+          "entity": "How do I contact the Customer Service / Sales team?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What use our recombinant albumin?",
+      "_id": "etKzbm0B6S6nYW21Bmv_",
+      "key": 118,
+      "entities": [
+        {
+          "start": 0,
+          "end": 33,
+          "value": "What use our recombinant albumin?",
+          "entity": "Why use our recombinant albumin?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Offering1",
+      "text": "interest to buy your product",
+      "_id": "jpG2hW0BueNZKWH0v_F0",
+      "key": 119,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering2",
+      "text": "interest- use Your Recombinant albumin?",
+      "_id": "yJENh20BueNZKWH0L_E3",
+      "key": 120,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering2",
+      "text": "interest- use your Recombinant Albumin",
+      "_id": "kJG3hW0BueNZKWH0z_EN",
+      "key": 121,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering3",
+      "text": "interest- Sample of your Product?",
+      "_id": "0pETh20BueNZKWH0e_H8",
+      "key": 122,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering2",
+      "text": "interest to use your product",
+      "_id": "kZG4hW0BueNZKWH02fHe",
+      "key": 123,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering2",
+      "text": "use of your rHSA",
+      "_id": "kpG5hW0BueNZKWH0BfF4",
+      "key": 124,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other querY",
+      "_id": "K5EeyW0BueNZKWH0efTx",
+      "key": 125,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "6ZHa920BueNZKWH0lP_-",
+      "key": 126,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Can I get a free Sample of a product",
+      "_id": "1NKzbm0B6S6nYW21Bmr6",
+      "key": 127,
+      "entities": [
+        {
+          "entity": "Can I get a free sample of a product?",
+          "value": "can i get a free sample of a product",
+          "start": 0,
+          "end": 36
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is custom formulation available",
+      "_id": "f5LvEG4BueNZKWH0OAVU",
+      "key": 128,
+      "entities": [
+        {
+          "entity": "Is custom formulation available?",
+          "value": "is custom formulation available",
+          "start": 0,
+          "end": 31
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Distributor",
+      "_id": "4pExkW0BueNZKWH0S_Kt",
+      "key": 129,
+      "entities": [
+        {
+          "entity": "Distributor",
+          "value": "distributor",
+          "start": 0,
+          "end": 11
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Offering4",
+      "text": "interest-our Business manager",
+      "_id": "0pHgkG0BueNZKWH09PJ_",
+      "key": 130,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering5",
+      "text": "interest-specs of Product",
+      "_id": "15HjkG0BueNZKWH0xfJJ",
+      "key": 131,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering5",
+      "text": "interest-specs of product",
+      "_id": "2JHkkG0BueNZKWH0C_JT",
+      "key": 132,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Please WAIt",
+      "_id": "NZIO-G0BueNZKWH0BwDJ",
+      "key": 133,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "6pHa920BueNZKWH0tf8u",
+      "key": 134,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "7JHb920BueNZKWH0AP8t",
+      "key": 135,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "hi",
+      "_id": "MJKpEm4BueNZKWH0nwbp",
+      "key": 136,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "recombinant albumin VS plasma derived albumin",
+      "_id": "0NKzbm0B6S6nYW21Bmr6",
+      "key": 137,
+      "entities": [
+        {
+          "start": 0,
+          "end": 45,
+          "value": "recombinant albumin VS plasma derived albumin",
+          "entity": "How does recombinant albumin compare with plasma derived albumin in cell culture?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "in cell culture what is the difference between recombinant albumin and plasma derived albumin",
+      "_id": "0dKzbm0B6S6nYW21Bmr6",
+      "key": 138,
+      "entities": [
+        {
+          "start": 0,
+          "end": 93,
+          "value": "in cell culture what is the difference between recombinant albumin and plasma derived albumin",
+          "entity": "How does recombinant albumin compare with plasma derived albumin in cell culture?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "difference between rHSA and plasma derived albumin",
+      "_id": "0tKzbm0B6S6nYW21Bmr6",
+      "key": 139,
+      "entities": [
+        {
+          "start": 0,
+          "end": 50,
+          "value": "difference between rHSA and plasma derived albumin",
+          "entity": "How does recombinant albumin compare with plasma derived albumin in cell culture?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "free sample ",
+      "_id": "2dKzbm0B6S6nYW21Bmr6",
+      "key": 140,
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "free sample ",
+          "entity": "Can I get a free sample of a product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "can i have free sample of product?",
+      "_id": "2tKzbm0B6S6nYW21Bmr6",
+      "key": 141,
+      "entities": [
+        {
+          "start": 0,
+          "end": 34,
+          "value": "can i have free sample of product?",
+          "entity": "Can I get a free sample of a product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "forms of sample product",
+      "_id": "5NKzbm0B6S6nYW21Bmr6",
+      "key": 142,
+      "entities": [
+        {
+          "start": 0,
+          "end": 23,
+          "value": "forms of sample product",
+          "entity": "In what forms do you provide your sample?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Can I get a discount?",
+      "_id": "5dKzbm0B6S6nYW21Bmr6",
+      "key": 143,
+      "entities": [
+        {
+          "start": 0,
+          "end": 21,
+          "value": "Can I get a discount?",
+          "entity": "Can I get a discount?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "discount range please",
+      "_id": "6dKzbm0B6S6nYW21Bmr6",
+      "key": 144,
+      "entities": [
+        {
+          "start": 0,
+          "end": 21,
+          "value": "discount range please",
+          "entity": "Can I get a discount?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is there any discount available?",
+      "_id": "6tKzbm0B6S6nYW21Bmr6",
+      "key": 145,
+      "entities": [
+        {
+          "start": 0,
+          "end": 32,
+          "value": "is there any discount available?",
+          "entity": "Can I get a discount?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is the datasheet up-to-date and correct?",
+      "_id": "7dKzbm0B6S6nYW21Bmr6",
+      "key": 146,
+      "entities": [
+        {
+          "start": 0,
+          "end": 40,
+          "value": "is the datasheet up-to-date and correct?",
+          "entity": "Is the information on the datasheet up-to-date and correct?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what kind of information will be provided on datasheet? ",
+      "_id": "8dKzbm0B6S6nYW21Bmr6",
+      "key": 147,
+      "entities": [
+        {
+          "start": 0,
+          "end": 56,
+          "value": "what kind of information will be provided on datasheet? ",
+          "entity": "what kind of information will be provided on datasheet? "
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What is a Certificate of Compliance / Analysis (CoC / COA)?",
+      "_id": "89Kzbm0B6S6nYW21Bmr6",
+      "key": 148,
+      "entities": [
+        {
+          "start": 0,
+          "end": 59,
+          "value": "What is a Certificate of Compliance / Analysis (CoC / COA)?",
+          "entity": "What is a Certificate of Compliance / Analysis (CoC / COA)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what is CoC?",
+      "_id": "9NKzbm0B6S6nYW21Bmr6",
+      "key": 149,
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "what is CoC?",
+          "entity": "What is a Certificate of Compliance / Analysis (CoC / COA)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "COA analysis means",
+      "_id": "99Kzbm0B6S6nYW21Bmr6",
+      "key": 150,
+      "entities": [
+        {
+          "start": 0,
+          "end": 18,
+          "value": "COA analysis means",
+          "entity": "What is a Certificate of Compliance / Analysis (CoC / COA)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What are the typical endotoxin levels?",
+      "_id": "_9Kzbm0B6S6nYW21Bmr7",
+      "key": 151,
+      "entities": [
+        {
+          "start": 0,
+          "end": 38,
+          "value": "What are the typical endotoxin levels?",
+          "entity": "What are the typical endotoxin levels?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "protein used for?",
+      "_id": "BdKzbm0B6S6nYW21Bmv7",
+      "key": 152,
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "value": "protein used for?",
+          "entity": "What application is the protein used for?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "protein uses are",
+      "_id": "B9Kzbm0B6S6nYW21Bmv7",
+      "key": 153,
+      "entities": [
+        {
+          "start": 0,
+          "end": 16,
+          "value": "protein uses are",
+          "entity": "What application is the protein used for?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is your product FDA approved for therapeutic grade?",
+      "_id": "ENKzbm0B6S6nYW21Bmv7",
+      "key": 154,
+      "entities": [
+        {
+          "start": 0,
+          "end": 51,
+          "value": "Is your product FDA approved for therapeutic grade?",
+          "entity": "Is rAlblaz FDA approved for therapeutic grade?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "any signs of yeast impurities in rAlblaz?",
+      "_id": "GtKzbm0B6S6nYW21Bmv7",
+      "key": 155,
+      "entities": [
+        {
+          "start": 0,
+          "end": 41,
+          "value": "any signs of yeast impurities in rAlblaz?",
+          "entity": "Does rAlblaz contain any yeast impurities (Host Cell Proteins, HCPs)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "any yeast impurities in your recombinant albumin?",
+      "_id": "HNKzbm0B6S6nYW21Bmv7",
+      "key": 156,
+      "entities": [
+        {
+          "start": 0,
+          "end": 49,
+          "value": "any yeast impurities in your recombinant albumin?",
+          "entity": "Does rAlblaz contain any yeast impurities (Host Cell Proteins, HCPs)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How do I place an order?",
+      "_id": "I9Kzbm0B6S6nYW21Bmv7",
+      "key": 157,
+      "entities": [
+        {
+          "start": 0,
+          "end": 24,
+          "value": "How do I place an order?",
+          "entity": "How do I place an order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Do you offer eProcurement solutions?",
+      "_id": "KdKzbm0B6S6nYW21Bmv7",
+      "key": 158,
+      "entities": [
+        {
+          "start": 0,
+          "end": 36,
+          "value": "Do you offer eProcurement solutions?",
+          "entity": "Do you offer eProcurement solutions?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Do you sell your product online?",
+      "_id": "KtKzbm0B6S6nYW21Bmv7",
+      "key": 159,
+      "entities": [
+        {
+          "start": 0,
+          "end": 32,
+          "value": "Do you sell your product online?",
+          "entity": "Do you offer eProcurement solutions?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Where can you ship your products?",
+      "_id": "NNKzbm0B6S6nYW21Bmv7",
+      "key": 160,
+      "entities": [
+        {
+          "start": 0,
+          "end": 33,
+          "value": "Where can you ship your products?",
+          "entity": "Where do you ship to?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How much does the product cost?",
+      "_id": "P9Kzbm0B6S6nYW21Bmv-",
+      "key": 161,
+      "entities": [
+        {
+          "start": 0,
+          "end": 31,
+          "value": "How much does the product cost?",
+          "entity": "How much does the product cost?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "describe your shipping, handling & packaging charges?",
+      "_id": "TdKzbm0B6S6nYW21Bmv_",
+      "key": 162,
+      "entities": [
+        {
+          "start": 0,
+          "end": 53,
+          "value": "describe your shipping, handling & packaging charges?",
+          "entity": "What are your shipping, handling & packaging charges?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "When do you ship?",
+      "_id": "T9Kzbm0B6S6nYW21Bmv_",
+      "key": 163,
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "value": "When do you ship?",
+          "entity": "When do you ship?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "transit time meant by",
+      "_id": "V9Kzbm0B6S6nYW21Bmv_",
+      "key": 164,
+      "entities": [
+        {
+          "start": 0,
+          "end": 21,
+          "value": "transit time meant by",
+          "entity": "What is the transit time?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Does the transit time affect the product?",
+      "_id": "WdKzbm0B6S6nYW21Bmv_",
+      "key": 165,
+      "entities": [
+        {
+          "start": 0,
+          "end": 41,
+          "value": "Does the transit time affect the product?",
+          "entity": "Does the transit time affect the product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is the product affected during transit?",
+      "_id": "WtKzbm0B6S6nYW21Bmv_",
+      "key": 166,
+      "entities": [
+        {
+          "start": 0,
+          "end": 39,
+          "value": "Is the product affected during transit?",
+          "entity": "Does the transit time affect the product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is your pricing including taxes?",
+      "_id": "ZdKzbm0B6S6nYW21Bmv_",
+      "key": 167,
+      "entities": [
+        {
+          "start": 0,
+          "end": 32,
+          "value": "Is your pricing including taxes?",
+          "entity": "Do you charge  GST?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "meaning of a pro-forma invoice?",
+      "_id": "bNKzbm0B6S6nYW21Bmv_",
+      "key": 168,
+      "entities": [
+        {
+          "start": 0,
+          "end": 31,
+          "value": "meaning of a pro-forma invoice?",
+          "entity": "Can I have a pro-forma invoice?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "contact the Customer Service / Sales team?",
+      "_id": "ddKzbm0B6S6nYW21Bmv_",
+      "key": 169,
+      "entities": [
+        {
+          "start": 0,
+          "end": 42,
+          "value": "contact the Customer Service / Sales team?",
+          "entity": "How do I contact the Customer Service / Sales team?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Why use our recombinant albumin?",
+      "_id": "eNKzbm0B6S6nYW21Bmv_",
+      "key": 170,
+      "entities": [
+        {
+          "start": 0,
+          "end": 32,
+          "value": "Why use our recombinant albumin?",
+          "entity": "Why use our recombinant albumin?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "uses of rHSA",
+      "_id": "e9Kzbm0B6S6nYW21Bmv_",
+      "key": 171,
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "uses of rHSA",
+          "entity": "Why use our recombinant albumin?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "how we will use our recombinant albumin?",
+      "_id": "fNKzbm0B6S6nYW21Bmv_",
+      "key": 172,
+      "entities": [
+        {
+          "start": 0,
+          "end": 40,
+          "value": "how we will use our recombinant albumin?",
+          "entity": "Why use our recombinant albumin?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Offering3",
+      "text": "interest- Sample of your product?",
+      "_id": "lJG5hW0BueNZKWH0pvHj",
+      "key": 173,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering1",
+      "text": "have different question",
+      "_id": "mZG6hW0BueNZKWH0oPFf",
+      "key": 174,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Cell Culture Media Company",
+      "_id": "7ZFPkW0BueNZKWH02vKO",
+      "key": 175,
+      "entities": [
+        {
+          "entity": "Cell Culture Media Company",
+          "value": "cell culture media company",
+          "start": 0,
+          "end": 26
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "albumin meaning is",
+      "_id": "y9Kzbm0B6S6nYW21Bmr6",
+      "key": 176,
+      "entities": [
+        {
+          "entity": "What is Albumin?",
+          "value": "albumin meaning is",
+          "start": 0,
+          "end": 18
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "65Ha920BueNZKWH01P9K",
+      "key": 177,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "8JHb920BueNZKWH0KP98",
+      "key": 178,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering7",
+      "text": "Interest - support team Callback",
+      "_id": "StKzbm0B6S6nYW21Bmv_",
+      "key": 179,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering7",
+      "text": "Interest - support team callback",
+      "_id": "N5KxEm4BueNZKWH0Lgaa",
+      "key": 180,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering4",
+      "text": "interest-our Business manager",
+      "_id": "1ZHikG0BueNZKWH0uvIc",
+      "key": 181,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering4",
+      "text": "interest-our Business manager",
+      "_id": "1JHikG0BueNZKWH0cvL7",
+      "key": 182,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Please wAit",
+      "_id": "NJIN-G0BueNZKWH03wBu",
+      "key": 183,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "hello hi",
+      "_id": "H5KbEm4BueNZKWH0Dwab",
+      "key": 184,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "howdy",
+      "_id": "NJKqEm4BueNZKWH0Mgb7",
+      "key": 185,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "Hello",
+      "_id": "NZKqEm4BueNZKWH0Wgab",
+      "key": 186,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "Hi",
+      "_id": "MZKpEm4BueNZKWH03wbv",
+      "key": 187,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering7",
+      "text": "Interest - support Team Callback",
+      "_id": "OJKxEm4BueNZKWH0zQbI",
+      "key": 188,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "albumin is defined as",
+      "_id": "x9Kzbm0B6S6nYW21Bmr6",
+      "key": 189,
+      "entities": [
+        {
+          "start": 0,
+          "end": 21,
+          "value": "albumin is defined as",
+          "entity": "What is Albumin?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "recombinant albumin compare with plasma derived albumin",
+      "_id": "ztKzbm0B6S6nYW21Bmr6",
+      "key": 190,
+      "entities": [
+        {
+          "start": 0,
+          "end": 55,
+          "value": "recombinant albumin compare with plasma derived albumin",
+          "entity": "How does recombinant albumin compare with plasma derived albumin in cell culture?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "comparison between recombinant albumin with plasma derived albumin",
+      "_id": "z9Kzbm0B6S6nYW21Bmr6",
+      "key": 191,
+      "entities": [
+        {
+          "start": 0,
+          "end": 66,
+          "value": "comparison between recombinant albumin with plasma derived albumin",
+          "entity": "How does recombinant albumin compare with plasma derived albumin in cell culture?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "shall i get free sample of product?",
+      "_id": "19Kzbm0B6S6nYW21Bmr6",
+      "key": 192,
+      "entities": [
+        {
+          "start": 0,
+          "end": 35,
+          "value": "shall i get free sample of product?",
+          "entity": "Can I get a free sample of a product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is custom formulation available?",
+      "_id": "29Kzbm0B6S6nYW21Bmr6",
+      "key": 193,
+      "entities": [
+        {
+          "start": 0,
+          "end": 32,
+          "value": "Is custom formulation available?",
+          "entity": "Is custom formulation available?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "can i have discount?",
+      "_id": "5tKzbm0B6S6nYW21Bmr6",
+      "key": 194,
+      "entities": [
+        {
+          "start": 0,
+          "end": 20,
+          "value": "can i have discount?",
+          "entity": "Can I get a discount?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is the information is correct in datasheet?",
+      "_id": "8NKzbm0B6S6nYW21Bmr6",
+      "key": 195,
+      "entities": [
+        {
+          "start": 0,
+          "end": 43,
+          "value": "is the information is correct in datasheet?",
+          "entity": "Is the information on the datasheet up-to-date and correct?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is it mandatory that CoC/COA?",
+      "_id": "-NKzbm0B6S6nYW21Bmr6",
+      "key": 196,
+      "entities": [
+        {
+          "start": 0,
+          "end": 29,
+          "value": "is it mandatory that CoC/COA?",
+          "entity": "What is a Certificate of Compliance / Analysis (CoC / COA)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "When is endotoxin level important?",
+      "_id": "-dKzbm0B6S6nYW21Bmr6",
+      "key": 197,
+      "entities": [
+        {
+          "start": 0,
+          "end": 34,
+          "value": "When is endotoxin level important?",
+          "entity": "When is endotoxin level important?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What application is the protein used for?",
+      "_id": "BNKzbm0B6S6nYW21Bmv7",
+      "key": 198,
+      "entities": [
+        {
+          "start": 0,
+          "end": 41,
+          "value": "What application is the protein used for?",
+          "entity": "What application is the protein used for?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "application is the protein used for",
+      "_id": "BtKzbm0B6S6nYW21Bmv7",
+      "key": 199,
+      "entities": [
+        {
+          "start": 0,
+          "end": 35,
+          "value": "application is the protein used for",
+          "entity": "What application is the protein used for?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "protein used as",
+      "_id": "CdKzbm0B6S6nYW21Bmv7",
+      "key": 200,
+      "entities": [
+        {
+          "start": 0,
+          "end": 15,
+          "value": "protein used as",
+          "entity": "What application is the protein used for?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is Lazuline Biotech perform custom manufacturing?",
+      "_id": "C9Kzbm0B6S6nYW21Bmv7",
+      "key": 201,
+      "entities": [
+        {
+          "start": 0,
+          "end": 49,
+          "value": "is Lazuline Biotech perform custom manufacturing?",
+          "entity": "Does Lazuline Biotech perform custom manufacturing? "
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is your company perform custom manufacturing?",
+      "_id": "DNKzbm0B6S6nYW21Bmv7",
+      "key": 202,
+      "entities": [
+        {
+          "start": 0,
+          "end": 45,
+          "value": "is your company perform custom manufacturing?",
+          "entity": "Does Lazuline Biotech perform custom manufacturing? "
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is FDA approved for your product?",
+      "_id": "EtKzbm0B6S6nYW21Bmv7",
+      "key": 203,
+      "entities": [
+        {
+          "start": 0,
+          "end": 33,
+          "value": "is FDA approved for your product?",
+          "entity": "Is rAlblaz FDA approved for therapeutic grade?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "is our product tested in animals?",
+      "_id": "F9Kzbm0B6S6nYW21Bmv7",
+      "key": 204,
+      "entities": [
+        {
+          "start": 0,
+          "end": 33,
+          "value": "is our product tested in animals?",
+          "entity": "Has rAlblaz been tested in animals?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "what about the impurities in your rHSA?",
+      "_id": "HdKzbm0B6S6nYW21Bmv7",
+      "key": 205,
+      "entities": [
+        {
+          "start": 0,
+          "end": 39,
+          "value": "what about the impurities in your rHSA?",
+          "entity": "Does rAlblaz contain any yeast impurities (Host Cell Proteins, HCPs)?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "the long-term storage properties of our products? ",
+      "_id": "H9Kzbm0B6S6nYW21Bmv7",
+      "key": 206,
+      "entities": [
+        {
+          "start": 0,
+          "end": 50,
+          "value": "the long-term storage properties of our products? ",
+          "entity": "What are the long-term storage properties of our products? "
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Can I buy your product online?",
+      "_id": "K9Kzbm0B6S6nYW21Bmv7",
+      "key": 207,
+      "entities": [
+        {
+          "start": 0,
+          "end": 30,
+          "value": "Can I buy your product online?",
+          "entity": "Do you offer eProcurement solutions?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Do you do online sales?",
+      "_id": "LtKzbm0B6S6nYW21Bmv7",
+      "key": 208,
+      "entities": [
+        {
+          "start": 0,
+          "end": 23,
+          "value": "Do you do online sales?",
+          "entity": "Do you offer eProcurement solutions?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How many countries do you ship to?",
+      "_id": "M9Kzbm0B6S6nYW21Bmv7",
+      "key": 209,
+      "entities": [
+        {
+          "start": 0,
+          "end": 34,
+          "value": "How many countries do you ship to?",
+          "entity": "Where do you ship to?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": " information do you require for my order?",
+      "_id": "NtKzbm0B6S6nYW21Bmv7",
+      "key": 210,
+      "entities": [
+        {
+          "start": 0,
+          "end": 41,
+          "value": " information do you require for my order?",
+          "entity": "What information do you require for my order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "do you need anything for my order?",
+      "_id": "OdKzbm0B6S6nYW21Bmv7",
+      "key": 211,
+      "entities": [
+        {
+          "start": 0,
+          "end": 34,
+          "value": "do you need anything for my order?",
+          "entity": "What information do you require for my order?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What is a Purchase Order Number ('PON')?",
+      "_id": "OtKzbm0B6S6nYW21Bmv7",
+      "key": 212,
+      "entities": [
+        {
+          "start": 0,
+          "end": 40,
+          "value": "What is a Purchase Order Number ('PON')?",
+          "entity": "What is a Purchase Order Number ('PON')?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "PON is",
+      "_id": "O9Kzbm0B6S6nYW21Bmv7",
+      "key": 213,
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "PON is",
+          "entity": "What is a Purchase Order Number ('PON')?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "PON meant by",
+      "_id": "PNKzbm0B6S6nYW21Bmv-",
+      "key": 214,
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "PON meant by",
+          "entity": "What is a Purchase Order Number ('PON')?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "PON is nothing but",
+      "_id": "PdKzbm0B6S6nYW21Bmv-",
+      "key": 215,
+      "entities": [
+        {
+          "start": 0,
+          "end": 18,
+          "value": "PON is nothing but",
+          "entity": "What is a Purchase Order Number ('PON')?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is the product in stock?",
+      "_id": "RNKzbm0B6S6nYW21Bmv_",
+      "key": 216,
+      "entities": [
+        {
+          "start": 0,
+          "end": 24,
+          "value": "Is the product in stock?",
+          "entity": "Is the product in stock?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "your shipping, handling & packaging charges?",
+      "_id": "S9Kzbm0B6S6nYW21Bmv_",
+      "key": 217,
+      "entities": [
+        {
+          "start": 0,
+          "end": 44,
+          "value": "your shipping, handling & packaging charges?",
+          "entity": "What are your shipping, handling & packaging charges?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "How long does it take to Ship after ordering?",
+      "_id": "UNKzbm0B6S6nYW21Bmv_",
+      "key": 218,
+      "entities": [
+        {
+          "start": 0,
+          "end": 45,
+          "value": "How long does it take to Ship after ordering?",
+          "entity": "When do you ship?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "When can you ship my order?",
+      "_id": "UdKzbm0B6S6nYW21Bmv_",
+      "key": 219,
+      "entities": [
+        {
+          "start": 0,
+          "end": 27,
+          "value": "When can you ship my order?",
+          "entity": "When do you ship?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "When can you ship at the earliest?",
+      "_id": "UtKzbm0B6S6nYW21Bmv_",
+      "key": 220,
+      "entities": [
+        {
+          "start": 0,
+          "end": 34,
+          "value": "When can you ship at the earliest?",
+          "entity": "When do you ship?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is the transit time going to affect the product?",
+      "_id": "W9Kzbm0B6S6nYW21Bmv_",
+      "key": 221,
+      "entities": [
+        {
+          "start": 0,
+          "end": 48,
+          "value": "Is the transit time going to affect the product?",
+          "entity": "Does the transit time affect the product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Will the product be affected during transit?",
+      "_id": "XNKzbm0B6S6nYW21Bmv_",
+      "key": 222,
+      "entities": [
+        {
+          "start": 0,
+          "end": 44,
+          "value": "Will the product be affected during transit?",
+          "entity": "Does the transit time affect the product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Any affect on the product due to transit time?",
+      "_id": "XdKzbm0B6S6nYW21Bmv_",
+      "key": 223,
+      "entities": [
+        {
+          "start": 0,
+          "end": 46,
+          "value": "Any affect on the product due to transit time?",
+          "entity": "Does the transit time affect the product?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "payment method is",
+      "_id": "YNKzbm0B6S6nYW21Bmv_",
+      "key": 224,
+      "entities": [
+        {
+          "start": 0,
+          "end": 17,
+          "value": "payment method is",
+          "entity": "How can we pay?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "payment",
+      "_id": "YdKzbm0B6S6nYW21Bmv_",
+      "key": 225,
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "payment",
+          "entity": "How can we pay?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "can i pay?",
+      "_id": "YtKzbm0B6S6nYW21Bmv_",
+      "key": 226,
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "can i pay?",
+          "entity": "How can we pay?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "i would like to pay",
+      "_id": "Y9Kzbm0B6S6nYW21Bmv_",
+      "key": 227,
+      "entities": [
+        {
+          "start": 0,
+          "end": 19,
+          "value": "i would like to pay",
+          "entity": "How can we pay?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is GST included?",
+      "_id": "ZtKzbm0B6S6nYW21Bmv_",
+      "key": 228,
+      "entities": [
+        {
+          "start": 0,
+          "end": 16,
+          "value": "Is GST included?",
+          "entity": "Do you charge  GST?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is GST included in your pricing?",
+      "_id": "Z9Kzbm0B6S6nYW21Bmv_",
+      "key": 229,
+      "entities": [
+        {
+          "start": 0,
+          "end": 32,
+          "value": "Is GST included in your pricing?",
+          "entity": "Do you charge  GST?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Can I have a pro-forma invoice?",
+      "_id": "adKzbm0B6S6nYW21Bmv_",
+      "key": 230,
+      "entities": [
+        {
+          "start": 0,
+          "end": 31,
+          "value": "Can I have a pro-forma invoice?",
+          "entity": "Can I have a pro-forma invoice?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": " pro-forma invoice",
+      "_id": "atKzbm0B6S6nYW21Bmv_",
+      "key": 231,
+      "entities": [
+        {
+          "start": 0,
+          "end": 18,
+          "value": " pro-forma invoice",
+          "entity": "Can I have a pro-forma invoice?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "give an example of a pro-forma invoice?",
+      "_id": "bdKzbm0B6S6nYW21Bmv_",
+      "key": 232,
+      "entities": [
+        {
+          "start": 0,
+          "end": 39,
+          "value": "give an example of a pro-forma invoice?",
+          "entity": "Can I have a pro-forma invoice?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Customer Service / Sales team?",
+      "_id": "d9Kzbm0B6S6nYW21Bmv_",
+      "key": 233,
+      "entities": [
+        {
+          "start": 0,
+          "end": 30,
+          "value": "Customer Service / Sales team?",
+          "entity": "How do I contact the Customer Service / Sales team?"
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Offering1",
+      "text": "interest-buy your rHSA",
+      "_id": "jJG1hW0BueNZKWH0G_EF",
+      "key": 234,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "hey hi",
+      "_id": "4ZEKcm0BueNZKWH00_AF",
+      "key": 235,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "hello",
+      "_id": "35EKcm0BueNZKWH0m_CW",
+      "key": 236,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Greet",
+      "text": "hey",
+      "_id": "4JEKcm0BueNZKWH0tvAD",
+      "key": 237,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering3",
+      "text": "interest in your sample",
+      "_id": "lpG6hW0BueNZKWH0CfH2",
+      "key": 238,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Offering2",
+      "text": "various uses of rHSA",
+      "_id": "k5G5hW0BueNZKWH0SvFm",
+      "key": 239,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Cell Culture Media Company",
+      "_id": "7JFOkW0BueNZKWH00_J5",
+      "key": 240,
+      "entities": [
+        {
+          "entity": "Cell Culture Media Company",
+          "value": "cell culture media company",
+          "start": 0,
+          "end": 26
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Cell Culture Media Company",
+      "_id": "PJHWgG0BueNZKWH0LPGM",
+      "key": 241,
+      "entities": [
+        {
+          "entity": "Cell Culture Media Company",
+          "value": "cell culture media company",
+          "start": 0,
+          "end": 26
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Cell Culture Media Company",
+      "_id": "7pFQkW0BueNZKWH0h_JN",
+      "key": 242,
+      "entities": [
+        {
+          "entity": "Cell Culture Media Company",
+          "value": "cell culture media company",
+          "start": 0,
+          "end": 26
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Scientist",
+      "_id": "9JFikW0BueNZKWH03fKz",
+      "key": 243,
+      "entities": [
+        {
+          "entity": "Scientist",
+          "value": "scientist",
+          "start": 0,
+          "end": 9
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Scientist",
+      "_id": "9ZFikW0BueNZKWH08_IW",
+      "key": 244,
+      "entities": [
+        {
+          "entity": "Scientist",
+          "value": "scientist",
+          "start": 0,
+          "end": 9
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Student",
+      "_id": "5ZE4kW0BueNZKWH0OfJ2",
+      "key": 245,
+      "entities": [
+        {
+          "entity": "Student",
+          "value": "student",
+          "start": 0,
+          "end": 7
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Student",
+      "_id": "9pFkkW0BueNZKWH0CvJD",
+      "key": 246,
+      "entities": [
+        {
+          "entity": "Student",
+          "value": "student",
+          "start": 0,
+          "end": 7
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Other",
+      "text": "other query",
+      "_id": "6JHa920BueNZKWH0bv_1",
+      "key": 247,
+      "entities": []
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What are the long-term storage properties of our products",
+      "_id": "FNKzbm0B6S6nYW21Bmv7",
+      "key": 248,
+      "entities": [
+        {
+          "entity": "What are the long-term storage properties of our products?",
+          "value": "what are the long-term storage properties of our products",
+          "start": 0,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "What are your shipping, handling & packaging charges?",
+      "_id": "HtKzbm0B6S6nYW21Bmv7",
+      "key": 249,
+      "entities": [
+        {
+          "entity": "What are your shipping, handling & packaging charges?",
+          "value": "what are your shipping, handling & packaging charges?",
+          "start": 0,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_FAQ",
+      "text": "Is rAlblaz FDA approved for a therapeutic grade?",
+      "_id": "3dKzbm0B6S6nYW21Bmr6",
+      "key": 250,
+      "entities": [
+        {
+          "entity": "Is rAlblaz FDA approved for a therapeutic grade?",
+          "value": "is ralblaz fda approved for a therapeutic grade?",
+          "start": 0,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "intent": "Lazuline_Enquiry",
+      "text": "Please wait",
+      "_id": "M5IN-G0BueNZKWH0qQBi",
+      "key": 251,
+      "entities": []
+    }
+  ]
